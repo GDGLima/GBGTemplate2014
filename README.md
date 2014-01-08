@@ -5,7 +5,7 @@ Website para las comunidades GBG
 
 Este Template fue elaborado por el equipo de desarrollo de Front End de GDGLima:
 
-@AlvarexDavid
+@AlvarexDavid 
 deivid07.21@gmail.com 
 
 Gracias a GDG Santo Domingo por el primer template 
