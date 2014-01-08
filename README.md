@@ -1,7 +1,7 @@
 GBGTemplate2014
 ===============
 
-This Template was developed by the GDGLima Frint End Team:
+This Template was developed by the GDGLima Front End Team:
 
 @AlvarexDavid <br>
 deivid07.21@gmail.com 
