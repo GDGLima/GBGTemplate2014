@@ -18,23 +18,23 @@ header {
     z-index: 9;
 }
 .logo {
-	background-image: url(../img/logo_gdg.png);
+	background-image: url(../img/logo_gbg.png);
     background-repeat: no-repeat;
     background-position: 5px center;
     color: #666;
     font-size: 22px;
     font-weight: 300;
     height: 100%;
-    line-height: 46px;
+    line-height: 43px;
     margin: 0;
 	padding-left: 70px;
 	position: relative;
-    width: 260px;	
+    width: 358px;	
 }
 .bar_top {
     background: #fff;
     border-bottom: 1px solid #BDBDBD;
-    height: 42px;
+    height: 40px;
     width: 100%;
 }
 .wrap_head {
@@ -378,7 +378,7 @@ header {
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.09), inset 0 0 30px -10px rgba(0, 0, 0, 0.36);
     color: #C70000;
     display: block;
-    height: 1580px;
+    height: 460px;
     font-size: 32px;
     font-weight: 300;
     float: left;
