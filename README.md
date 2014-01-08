@@ -5,9 +5,10 @@ Website para las comunidades GBG
 
 Este Template fue elaborado por el equipo de desarrollo de Front End de GDGLima:
 
-deivid07.21@gmail.com @AlvarexDavid
+@AlvarexDavid
+deivid07.21@gmail.com 
 
-Gracias a GDG Santo Domingo por el primer template
+Gracias a GDG Santo Domingo por el primer template 
 https://github.com/GDGSantoDomingo/devfest2013site
 
 Para poder utilizarlo basta con descargar el template y cambiar el contenido.
@@ -20,9 +21,10 @@ Si necesitan ayuda pueden encontrarnos en https://plus.google.com/u/0/1036072340
 
 This Template was developed by the GDGLima Frint End Team:
 
-deivid07.21@gmail.com @AlvarexDavid
+@AlvarexDavid
+deivid07.21@gmail.com 
 
-Thanks to GDG Santo Domingo for the first template
+Thanks to GDG Santo Domingo for the first template 
 https://github.com/GDGSantoDomingo/devfest2013site
 
 To use it just download the template and change the content
