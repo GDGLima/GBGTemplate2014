@@ -17,6 +17,19 @@ header {
     width: 100%;
     z-index: 9;
 }
+footer{
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    color: #727070;
+    background: #fff;
+    height: 60px;
+    line-height: 60px;
+}
+footer a{
+    color: #727070;
+    text-decoration: none;
+}
 .logo {
 	background-image: url(../img/logo_gbg.png);
     background-repeat: no-repeat;
@@ -29,7 +42,7 @@ header {
     margin: 0;
 	padding-left: 70px;
 	position: relative;
-    width: 358px;	
+    width: 276px;	
 }
 .bar_top {
     background: #fff;
@@ -264,17 +277,6 @@ header {
     top: 0;
 	width: 70px;
 }
-.twitter-share-button{
-    left: 200%;
-    position: relative;
-    top: -45px;
-}
-.fb-share-button{
-    left: 250%;
-    position: absolute;
-    top: -15px;
-}
-
 .fecha {
     color: #FFF;
     font-size: 30px;
